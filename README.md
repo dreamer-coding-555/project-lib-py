@@ -58,4 +58,4 @@ Thank you for choosing this Python library template. Happy coding and building a
 
 ## Contact
 
-If you have questions or want to get in touch regarding this library, you can find a way to contact me on my [website](https://trilobite.code.blog/contact/).
+If you have questions or want to get in touch regarding this library, you can find a way to contact me on my [website](https://trilobite.home.blog/contact/).
